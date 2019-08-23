@@ -1,0 +1,15 @@
+Data				Variable Descriptio
+
+Loan_ID				Unique Loan I
+Gender				Male/ Femal
+married     		Applicant married (Y/N
+dependents  		Number of dependent
+Education   		Applicant Education (Graduate/ Under Graduate
+Self_Employed 		Self employed (Y/N
+ApplicantIncome		Applicant incom
+CoapplicantIncome	Coapplicant incom
+Loan_Amount_Term     Loan amount in thousand
+Loan_Amount_Term	Term of loan in month
+Credit_History		credit history meets guideline
+Property_Area		Urban/ Semi Urban/ Rura
+Loan_Status			Loan approved (Y/N)
